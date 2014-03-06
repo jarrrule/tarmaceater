@@ -1,0 +1,74 @@
+<div class="footer-container">
+	<div class="container">
+		<div class="row">
+			<div class="span12">
+				<div class="footer">
+					  <p id="back-top"><a href="#top"><span></span></a> </p>
+					  <div class="footer-cols-wrapper">
+						<div class="footer-col">			
+							<h4>Information</h4>
+							<div class="footer-col-content">
+								<ul>
+<li><a href="http://127.0.0.1/magento/index.php/?___SID=Uabout-magento-demo-store">About Us</a></li>
+<li><a href="http://127.0.0.1/magento/index.php/?___SID=Ucustomer-service">Customer Service</a></li>
+<li class="last privacy"><a href="http://127.0.0.1/magento/index.php/privacy-policy-cookie-restriction-mode?___SID=U">Privacy Policy</a></li>
+</ul>								<ul class="links">
+                        <li class="first" ><a href="http://127.0.0.1/magento/index.php/catalog/seo_sitemap/category/?___SID=U" title="Site Map" >Site Map</a></li>
+                                <li ><a href="http://127.0.0.1/magento/index.php/catalogsearch/term/popular/?___SID=U" title="Search Terms" >Search Terms</a></li>
+                                <li ><a href="http://127.0.0.1/magento/index.php/catalogsearch/advanced/?___SID=U" title="Advanced Search" >Advanced Search</a></li>
+                                <li ><a href="http://127.0.0.1/magento/index.php/sales/guest/form/?___SID=U" title="Orders and Returns" >Orders and Returns</a></li>
+                                <li class=" last" ><a href="http://127.0.0.1/magento/index.php/contacts/?___SID=U" title="Contact Us" >Contact Us</a></li>
+            </ul>
+							</div>
+						</div>
+						<div class="footer-col">
+	<h4>Why buy from us</h4>
+	<div class="footer-col-content">
+		<ul>
+			<li><a href="#">Shipping & Returns</a></li>
+			<li><a href="#">Secure Shopping</a></li>
+			<li><a href="#">International Shipping</a></li>
+			<li><a href="#">Affiliates</a></li>
+			<li><a href="#">Group Sales</a></li>
+		</ul>
+	</div>
+</div>
+<div class="footer-col">
+<h4>My account</h4>
+	<div class="footer-col-content">
+		<ul>
+			<li><a href="http://127.0.0.1/magento/index.php/customer/account/login/?___SID=U">Sign In</a></li>
+			<li><a href="http://127.0.0.1/magento/index.php/checkout/cart/?___SID=U">View Cart</a></li>
+			<li><a href="http://127.0.0.1/magento/index.php/wishlist/?___SID=U">My Wishlist</a></li>
+			<li><a href="#">Track My Order</a></li>
+			<li><a href="#">Help</a></li>
+		</ul>
+	</div>
+</div>
+<div class="footer-col last">
+	<h4>Follow us</h4>
+	<div class="footer-col-content">
+		<ul class="list-icon">
+		       <li><a target="_blank" href="http://www.facebook.com/">Facebook</a></li>
+		       <li><a target="_blank" href="https://twitter.com/">Twitter</a></li> 
+		       <li><a target="_blank" href="#">Rss</a></li>
+		</ul>
+	</div>
+</div>					  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="footer-container-bottom">
+	<div class="container">
+		<div class="row">
+			<div class="span12">
+				<div class="footer">
+					<address>&copy; <script type="text/javascript">var mdate = new Date(); document.write(mdate.getFullYear());</script> Magento Demo Store. All Rights Reserved.</address>
+										More <a rel="nofollow" href="http://www.templatemonster.com/category/car-tuning-magento-themes/" target="_blank">Car Tuning Magento Themes at TemplateMonster.com</a>					<div class="clear"></div>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>

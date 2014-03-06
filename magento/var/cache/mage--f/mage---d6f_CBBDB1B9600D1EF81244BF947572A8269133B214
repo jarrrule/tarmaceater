@@ -1,0 +1,24 @@
+<div class="block block-layered-nav">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+    </div>
+    <div class="block-content">
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="http://127.0.0.1/magento/index.php/car-care/exterior-care.html?___SID=U">Exterior Care</a> (6)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/magento/index.php/car-care/interior-care.html?___SID=U">Interior Care</a> (6)
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/magento/index.php/car-care/oils-fluids.html?___SID=U">Oils &amp; Fluids</a> (6)
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+</div>
